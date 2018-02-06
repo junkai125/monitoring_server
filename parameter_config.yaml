@@ -1,0 +1,13 @@
+parameter1:
+  name: cpu_pct
+  frequency: 30
+  duration: 30
+  threshold: 70
+
+parameter2:
+  name: memory_pct
+  frequency: 10
+  duration: 10
+  threshold: 60
+
+  

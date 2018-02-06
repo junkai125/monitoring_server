@@ -1,0 +1,15 @@
+server1:
+  hostname: Alexander01
+  url: http://13.250.28.110:9093
+  n: 600
+  username: jk
+  password: "900125"
+
+server2:
+  hostname: Alexander02
+  url: http://52.77.215.216:9093
+  n: 600
+  username: jk
+  password: "900125"
+
+
